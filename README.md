@@ -1,4 +1,4 @@
-REMOTE
+LOCAL
 J'écris quelques ligne
 Et une de plus
 Ca en fait 2
